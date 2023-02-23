@@ -26,8 +26,6 @@ int main(void)
     return (0);
 }
 
-carrie@ubuntu:/debugging$
-carrie@ubuntu:/debugging$ cat 3-convert_day.c
 #include "main.h"
 
 /**
@@ -81,8 +79,6 @@ int convert_day(int month, int day)
     return (day);
 }
 
-carrie@ubuntu:/debugging$
-carrie@ubuntu:/debugging$ cat 3-print_remaining_days.c
 #include <stdio.h>
 #include "main.h"
 
